@@ -13,6 +13,7 @@
 		51D42784296D897A007FDDD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51D42782296D897A007FDDD6 /* Main.storyboard */; };
 		51D42786296D897B007FDDD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51D42785296D897B007FDDD6 /* Assets.xcassets */; };
 		51D42789296D897B007FDDD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51D42787296D897B007FDDD6 /* LaunchScreen.storyboard */; };
+		51D42791296D89E7007FDDD6 /* TextViewPlaceholdable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51D42790296D89E7007FDDD6 /* TextViewPlaceholdable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		51D42785296D897B007FDDD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		51D42788296D897B007FDDD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		51D4278A296D897B007FDDD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51D42790296D89E7007FDDD6 /* TextViewPlaceholdable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewPlaceholdable.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				51D42785296D897B007FDDD6 /* Assets.xcassets */,
 				51D42787296D897B007FDDD6 /* LaunchScreen.storyboard */,
 				51D4278A296D897B007FDDD6 /* Info.plist */,
+				51D42790296D89E7007FDDD6 /* TextViewPlaceholdable.swift */,
 			);
 			path = TextViewWithPlaceholder;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				51D42781296D897A007FDDD6 /* ViewController.swift in Sources */,
 				51D4277D296D897A007FDDD6 /* AppDelegate.swift in Sources */,
+				51D42791296D89E7007FDDD6 /* TextViewPlaceholdable.swift in Sources */,
 				51D4277F296D897A007FDDD6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
